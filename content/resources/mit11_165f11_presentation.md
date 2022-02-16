@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-165-infrastructure-and-energy-technology-challenges-fall-2011/86da83ca79dc1bf4aa5a62380f5a2d8a_MIT11_165F11_Presentation.pdf
+file: /media/courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/86da83ca79dc1bf4aa5a62380f5a2d8a_MIT11_165F11_Presentation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT11_165F11_Presentation.pdf
 uid: 86da83ca-79dc-1bf4-aa5a-62380f5a2d8a

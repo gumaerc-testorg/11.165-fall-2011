@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4aef66a8-3dc7-f417-c01b-43864da1a428
 ---
@@ -542,7 +545,7 @@ Social Development and Sustainability Aspects
 
 ### Required Readings
 
-Hoffert, Martin I., et al. "[Energy Implications of Future Stabilization of Atmosphere CO2 Content](http://dx.doi.org/10.1038/27638)." _Nature_ 395 (1998): 881–4.
+Hoffert, Martin I., et al. "[Energy Implications of Future Stabilization of Atmosphere CO{{< sub "2" >}} Content](http://dx.doi.org/10.1038/27638)." _Nature_ 395 (1998): 881–4.
 
 Pachauri, S., and D. Spreng. "[Energy Use and Energy Access in Relation to Poverty](http://www.jstor.org/stable/4414526)." _CEPE Working Paper 25_. Eidgenŏssische Technische Hochschule Zürich and École Polytechnique Fédérale de Lausanne, 2003.
 
