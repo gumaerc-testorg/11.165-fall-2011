@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f364579e-5c57-2f7d-44aa-08ea03b59ddf
 resourcetype: Document
 title: MIT11_165F11_Suggestions.pdf
 uid: 5e58e5b1-5de9-43a6-dd35-3dcb54a4cccd

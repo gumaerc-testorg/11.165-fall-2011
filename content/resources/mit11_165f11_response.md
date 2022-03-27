@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4d3966e8-4516-f1a3-7718-ac2d9a37edb0
 resourcetype: Document
 title: MIT11_165F11_Response.pdf
 uid: 7e622729-a5b7-d412-193b-ce2c93d98660
