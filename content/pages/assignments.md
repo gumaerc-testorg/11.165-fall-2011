@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,6 +12,6 @@ Students completed four two-page reaction papers, one 25-page final research pap
 
 Graduate students made one additional presentation during the semester. Undergraduate students were welcome to present as well, and could substitute a presentation for one of the reaction papers.
 
-Guidelines for Class Presentation ([PDF]({{< baseurl >}}/resources/mit11_165f11_presentation))
+Guidelines for Class Presentation ({{% resource_link 86da83ca-79dc-1bf4-aa5a-62380f5a2d8a "PDF" %}})
 
-Understanding Response Papers ([PDF]({{< baseurl >}}/resources/mit11_165f11_response))
+Understanding Response Papers ({{% resource_link 7e622729-a5b7-d412-193b-ce2c93d98660 "PDF" %}})

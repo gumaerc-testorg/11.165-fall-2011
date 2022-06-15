@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of references for writers and guidelines
+  for preparing well-written papers for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -32,4 +34,4 @@ Zeisel, Hans. _Say It With Figures_. 6th ed. HarperCollins, 1985. ISBN: 97800618
 Guidelines for Well-written Papers
 ----------------------------------
 
-The following common guidelines will help you prepare well-written papers. ([PDF]({{< baseurl >}}/resources/mit11_165f11_suggestions))
+The following common guidelines will help you prepare well-written papers. ({{% resource_link 5e58e5b1-5de9-43a6-dd35-3dcb54a4cccd "PDF" %}})

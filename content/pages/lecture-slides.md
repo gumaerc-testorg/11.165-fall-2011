@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and slides from
+  selected lecture sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,7 +41,7 @@ SLIDES
 Infrastructure in Crisis: History and Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses01))
+({{% resource_link fda8db6b-f38f-c0b1-c8ee-2694027886f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +53,7 @@ Infrastructure in Crisis: History and Introduction
 Infrastructure, Public Goods, and Market Failure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses02))
+({{% resource_link 06090d7e-a0c2-2374-b0dd-e8fac3eb9bb1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Infrastructure, Public Goods, and Market Failure
 Infrastructure and Regulations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses03))
+({{% resource_link 462c4b70-6dbb-9d2c-9fe0-83378173d7a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Infrastructure and Regulations
 Infrastructure Investment and Economic Growth
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses04))
+({{% resource_link 0953f599-4562-1d60-57ea-64b20632de2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Infrastructure Investment and Economic Growth
 Infrastructure and Development
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses05))
+({{% resource_link b95723cb-956e-dec1-c5e9-f47d89323e5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Infrastructure and Development
 Infrastructure and Regional Development
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses06))
+({{% resource_link 3a4570f6-4f55-b1be-53d5-5d5675f5a096 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Financing Energy Infrastructure
 The Energy Chain and Market, Part I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses13))
+({{% resource_link c5d60fc2-26f1-43b4-ae91-a45f81ee47e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ The Energy Chain and Market, Part I
 The Energy Chain and Market, Part II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses14))
+({{% resource_link 6925b8b4-9eb1-4d2d-f301-3499d1ad75dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ The Energy Chain and Market, Part II
 Issues and Challenges
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses15))
+({{% resource_link 828fe84f-a592-6b07-3085-be50ee92aa72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +245,7 @@ Issues and Challenges
 Energy and Economic Development
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses16))
+({{% resource_link edfeccfd-f047-72c4-279a-369e69e5dc77 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +257,7 @@ Energy and Economic Development
 Social Development and Sustainability Aspects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses17))
+({{% resource_link e7213d77-a621-ea3b-bbdc-bcf14506feb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ Social Development and Sustainability Aspects
 Energy infrastructure: Needs and Urgencies in the United States
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses18))
+({{% resource_link 2a63e312-4740-f704-2183-669cd1637fcb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +305,7 @@ Energy Infrastructure in Emerging and Other Advanced Economies
 Disruptions to Energy Supply
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses20))
+({{% resource_link 7ebb0ca4-8dff-0fcb-c51f-9d1eadd5f99e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +317,7 @@ Disruptions to Energy Supply
 Infrastructure Protection, Natural Disasters, and Terrorist Threats
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses21))
+({{% resource_link bd482987-3e89-0a76-e23d-104c03bdee04 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +335,7 @@ Infrastructure Protection, Natural Disasters, and Terrorist Threats
 Food vs. Fuel?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses22))
+({{% resource_link 1a763e7d-23e1-c7e3-e189-d769a3929042 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -345,7 +347,7 @@ Food vs. Fuel?
 Emerging Issues and Policy Implications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses23))
+({{% resource_link cce39a38-493c-0161-88d4-e352845fe972 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -363,7 +365,7 @@ Emerging Issues and Policy Implications
 Regulations, Constraints, and Political Processes of Energy Infrastructure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_165f11_ses24))
+({{% resource_link 747c79d2-0a7b-5d8d-c30c-e0fb5b379c28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
