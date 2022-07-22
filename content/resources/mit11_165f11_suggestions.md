@@ -5,6 +5,7 @@ description: This resource contains information regarding Guidelines for Well-wr
 file: /courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/5e58e5b15de943a6dd353dcb54a4cccd_MIT11_165F11_Suggestions.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT11_165F11_Suggestions.pdf
 uid: 5e58e5b1-5de9-43a6-dd35-3dcb54a4cccd
 ---
 This resource contains information regarding Guidelines for Well-written Papers
-
