@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2011",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -62,6 +63,7 @@
     "Lecture Notes",
     "Written Assignments"
   ],
-  "site_uid": "61bc6eb5-a3c7-43b0-b2c3-6319299f1b4d",
+  "site_uid": "66b63c41-491a-4df7-9d72-b486f0b10a70",
+  "site_short_id": "11.165-fall-2011",
   "title": "Course Metadata"
 }
