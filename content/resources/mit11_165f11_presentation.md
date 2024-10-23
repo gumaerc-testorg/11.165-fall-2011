@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignments.
-file: /courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/86da83ca79dc1bf4aa5a62380f5a2d8a_MIT11_165F11_Presentation.pdf
+file: /ol-ocw-studio-app/courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/86da83ca79dc1bf4aa5a62380f5a2d8a_MIT11_165F11_Presentation.pdf
 file_size: 158372
 file_type: application/pdf
 learning_resource_types:
