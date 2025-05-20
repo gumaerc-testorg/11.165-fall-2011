@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Guidelines for Well-written
   Papers
-file: /ol-ocw-studio-app/courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/5e58e5b15de943a6dd353dcb54a4cccd_MIT11_165F11_Suggestions.pdf
+file: /courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/5e58e5b15de943a6dd353dcb54a4cccd_MIT11_165F11_Suggestions.pdf
 file_size: 89608
 file_type: application/pdf
 learning_resource_types: []
