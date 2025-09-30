@@ -14,7 +14,7 @@ Seminars: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-Students must have completed [*14.01 Principles of Microeconomics*](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/) before taking this course.
+Students must have completed {{% resource_link "7d6b128f-9126-40d0-8d19-3606e0213179" "*14.01 Principles of Microeconomics*" %}} before taking this course.
 
 ## Course Description
 
